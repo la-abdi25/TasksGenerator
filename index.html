@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="app.css" />
+    <!--button source: font-awesome, link below-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="app.js"></script>
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>Task Manager Portal</h1>
+        <h2>Add Your Tasks!</h2>
+      </div>
+    </header>
+    <main>
+      <div id="main-container">
+        <form id="my-form">
+          <input
+            type="text"
+            id="my-task"
+            required
+            placeholder="Edit and Add Here..."
+            maxlength="20"
+          />
+          <button id="btn"><i class="fa-solid fa-square-plus"></i></button>
+        </form>
+        <div id="list-container">
+          <div id="update-task"></div>
+          <ul id="task-list"></ul>
+          <p id="message"></p>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div>Copyright &copy; 2025 Ladan Abdi. All Rights Reserved.</div>
+    </footer>
+  </body>
+</html>
