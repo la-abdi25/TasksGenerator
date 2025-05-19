@@ -21,3 +21,14 @@
     </li>
 </ul>
 
+<h2>How To Get Started</h2>
+<h3>Clone the repository: git clone </h3>
+<h3>Open index.html file and observe app in your web browser of choice.  </h3>
+
+<h2>How To Use App</h2>
+<ol>
+  <li>Enter your task in the input field, once done, press plus button to add task on the web page.</li>
+  <li>To delete a task press the red button.</li>
+  <li>To edit a task, first enter your update in the input field and then press the edit button with the pencil icon.</li>
+</ol>
+
