@@ -5,7 +5,7 @@
 <h3>A task management application that is responsive, efficient, and user-friendly built using HTML5, CSS3, and JavaScript(ES6+).</h3>
 
 <h2>Features</h2>
-<h3>The application allows users to add, remove, edit, and read tasks, with data managment handled via localStorage on the users browser.</h3>
+<h3>The application allows users to add, remove, edit, and read tasks, with data management handled via localStorage on the users browser.</h3>
 
 
 <h2>Tech Stack</h2>
