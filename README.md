@@ -22,7 +22,7 @@
 </ul>
 
 <h2>How To Get Started</h2>
-<h3>Clone the repository: git clone </h3>
+<h3>Clone the repository: git clone git@github.com:la-abdi25/TasksGenerator.git</h3>
 <h3>Open the index.html file in your web browser of choice.  </h3>
 
 <h2>How To Use App</h2>
@@ -31,4 +31,6 @@
   <li>To delete a task press the red button.</li>
   <li>To edit a task, first enter your update in the input field and then press the edit button with the pencil icon to edit the task you would like.</li>
 </ol>
+
+<p>Now Tackle your tasks and complete them with ease!</p>
 
