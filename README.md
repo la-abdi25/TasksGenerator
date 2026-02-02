@@ -22,8 +22,8 @@
 </ul>
 
 <h2>How To Get Started</h2>
-<h3>Clone the repository: git clone git@github.com:la-abdi25/TasksGenerator.git</h3>
-<h3>Open the index.html file in your web browser of choice  </h3>
+<h4>Clone the repository: git clone git@github.com:la-abdi25/TasksGenerator.git</h4>
+<h4>Open the index.html file in your web browser of choice  </h4>
 
 <h2>How To Use App</h2>
 <ol>
