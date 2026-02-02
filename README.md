@@ -21,6 +21,9 @@
     </li>
 </ul>
 
+<h2>Live Demo</h2>
+<p>Check out the deployed app: <a href="https://tasksgeneratorapp-livesite.netlify.app/" target="_blank">Tasks Generator App</a></p>
+
 <h2>How To Get Started</h2>
 <h4>Clone the repository: git clone git@github.com:la-abdi25/TasksGenerator.git</h4>
 <h4>Open the index.html file in your web browser of choice  </h4>
