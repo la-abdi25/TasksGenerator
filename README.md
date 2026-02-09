@@ -2,10 +2,10 @@
 
 
 <h2>Description</h2>
-<h3>A task management application that is responsive, efficient, and user-friendly built using HTML5, CSS3, and JavaScript(ES6+)</h3>
+<p>A task management application that is responsive, efficient, and user-friendly built using HTML5, CSS3, and JavaScript(ES6+)</p>
 
 <h2>Features</h2>
-<h3>The application allows users to add, remove, edit, and read tasks, with data management handled via localStorage on the users browser</h3>
+<p>The application allows users to add, remove, edit, and read tasks, with data management handled via localStorage on the users browser</p>
 
 
 <h2>Tech Stack</h2>
@@ -25,8 +25,8 @@
 <p>Check out the deployed app: <a href="https://tasksgeneratorapp-livesite.netlify.app/" target="_blank">Tasks Generator App</a></p>
 
 <h2>How To Get Started</h2>
-<h4>Clone the repository: git clone git@github.com:la-abdi25/TasksGenerator.git</h4>
-<h4>Open the index.html file in your web browser of choice  </h4>
+<p>Clone the repository: git clone git@github.com:la-abdi25/TasksGenerator.git</p>
+<p>Open the index.html file in your web browser of choice  </p>
 
 <h2>How To Use App</h2>
 <ol>
